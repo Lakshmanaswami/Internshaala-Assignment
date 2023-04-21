@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+  <title>
+    Recycling 
+  </title>
+  <meta name="author" content="Recycling of E-waste and the Li batteries">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <style>
+    .hin{
+      background-color: deeppink;
+      font-style:italic;
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+    }
+  </style>
+</head>
+<body bgcolor="light blue">
+  <h2 style="text-align:center">Recycling of E-waste and the Li-batteries</h2>
+  <p class="hin">
+    Hello amigos!.Today we observed that lot of plastic waste is dumped into the publi places.
+    It may leads to the lot of pollution.
+  Recycling of these wastes is very useful to save the nature. 
+  </p>
+  <p> 
+    <img src="recycle.jpg" style="padding-right:2em;">
+    <img src="recycle2.jpg" style="padding-right:2em;">
+    <img src="recycle3.jpg" style="padding-right:2em;"><br>
+    <p>
+      Steps to follow in collecting the plastic waste and the li-batteries.<br>
+       Collect the wastages from the public places like sea shore,road sides and other places.<br>
+       Be careful while collecting the Li-batteries. They are made with some poisonous chemicals.<br>
+  </p>
+  <p style="font-size: larger;font-family: italic;background-color: light green;color:rgb(233, 225, 233)">
+    <b>Creating awareness in People</b><br>
+    Conduct some  meetings to create the hazards happening to the people by using the large amount of plastic.
+    It causes lot of health problems.
+    Using of Li-batteries leads to the Global warming.
+    Those are very sensitive to temperature.
+    If the battery is completely discharged then it longer to be recharged again.
+    It is realtively expensive.
+    If the separator gets damaged. It can burst into flames.
+  </p>
+  <p>
+    Advantages of the collecting the E-waste and the Li-batteries.
+    It reduces pollution.
+    It Saves the Earth from the Global Warming.
+  </p>
+
+</body>
